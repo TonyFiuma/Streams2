@@ -1,0 +1,7 @@
+Collection of exercise solved in school (Develhope) to deepen my knowledge of Java
+
+# Exercise: Streams 2
+Write a program that:
+* write using `FileWriter` the current date/time with seconds inside a file in `src` called `file.txt`
+  * if the file already exists, alert the user about overwriting it
+  * if not, alert the user of the new file creation
